@@ -18,7 +18,7 @@ List of Data Science Cheatsheets to rule the world.
 ----------------------------------------
 
 
-# [Business Science](https://www.business-science.io/) 
+# [Business Science](https://www.business-science.io/)
 
 ## [Business Science Problem Framework (PDF)](https://github.com/business-science/cheatsheets/blob/master/Business_Science_Problem_Framework.pdf)
 
@@ -65,6 +65,10 @@ List of Data Science Cheatsheets to rule the world.
 - [Intermediate Python (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Python/Dataquest/Intermediate-Python-Cheat-Sheet.pdf)
 
 ![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Python/Dataquest/img/Intermediate-Python-Cheat-Sheet-1.png)
+
+- [Python REGEX (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Python/Dataquest/python-regular-expressions-cheat-sheet.pdf)
+
+![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Python/Dataquest/img/dataquest-python-regex.png)
 
 ## Others
 
@@ -154,7 +158,7 @@ List of Data Science Cheatsheets to rule the world.
 
 # Math and Calculus
 
-From @afshinea:
+From @afshinea, @stat110 and @wzchen:
 
 - [Refresher Algebra and Calculus (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Math_Calculus/refresher-algebra-calculus.pdf)
 ![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Math_Calculus/img/refresher-algebra-calculus/refresher-algebra-calculus-1.png)
@@ -164,6 +168,18 @@ From @afshinea:
 ![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Math_Calculus/img/refresher-probabilities-statistics/refresher-probabilities-statistics-1.png)
 ![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Math_Calculus/img/refresher-probabilities-statistics/refresher-probabilities-statistics-2.png)
 ![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Math_Calculus/img/refresher-probabilities-statistics/refresher-probabilities-statistics-3.png)
+
+- [Fundamentals of Probabilities (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Math_Calculus/Probability%20Cheatsheet.pdf)
+![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Math_Calculus/img/Probability%20Cheatsheet/1.PNG)
+![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Math_Calculus/img/Probability%20Cheatsheet/2.PNG)
+![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Math_Calculus/img/Probability%20Cheatsheet/3.PNG)
+![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Math_Calculus/img/Probability%20Cheatsheet/4.PNG)
+![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Math_Calculus/img/Probability%20Cheatsheet/5.PNG)
+![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Math_Calculus/img/Probability%20Cheatsheet/6.PNG)
+![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Math_Calculus/img/Probability%20Cheatsheet/7.PNG)
+![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Math_Calculus/img/Probability%20Cheatsheet/8.PNG)
+![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Math_Calculus/img/Probability%20Cheatsheet/9.PNG)
+![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Math_Calculus/img/Probability%20Cheatsheet/10.PNG)
 
 # Big Data
 
@@ -220,8 +236,11 @@ _ [H2O (PDF)](https://github.com/rstudio/cheatsheets/blob/master/h2o.pdf)
 
 
 ## Supervised Learning
+- [Regression  (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Machine_Learning/Supervised%20Learning/bsu-regression.pdf)
 
-From @afshinea: 
+![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Machine_Learning/Supervised%20Learning/img/bsu-regression-cheatsheet.png)
+
+From @afshinea:
 
 - [VIP Supervised Learning (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Machine_Learning/Supervised%20Learning/cheatsheet-supervised-learning.pdf)
 
@@ -231,6 +250,10 @@ From @afshinea:
 ![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Machine_Learning/Supervised%20Learning/img/cheatsheet-supervised-learning/cheatsheet-supervised-learning-4.png)
 
 ## Unsupervised Learning
+- [Segmentation and Clustering (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Machine_Learning/Unsupervised%20Learning/segmentation_clustering.pdf)
+
+![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Machine_Learning/Unsupervised%20Learning/img/BSU-segmentation-clustering.png)
+
 
 From @afshinea:
 
@@ -277,7 +300,7 @@ From @afshinea:
 
 ![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Python/Datacamp/img/keras-1.png)
 
-From @afshinea: 
+From @afshinea:
 
 - [Deep Learning Basics (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Deep_Learning/cheatsheet-deep-learning.pdf)
 
@@ -386,6 +409,10 @@ From @afshinea:
 
 ![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/General/Git/img/Atlassian_git_cheatsheet_pg2.png)
 
+- [DVC (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/General/DVC/DVC_cheatsheet.pdf)
+
+![](https://raw.githubusercontent.com/FavioVazquez/ds-cheatsheets/master/General/DVC/img/DVC_cheatsheet.png)
+
 - [BASH (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/General/BASH/bash_cheat_sheet.pdf)
 
 ![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/General/BASH/img/Linux-bash-cheatsheet-pg1.png)
@@ -418,4 +445,3 @@ By @ml874
 # Contributors:
 
 ## [Favio Vázquez](https://github.com/FavioVazquez)
-
